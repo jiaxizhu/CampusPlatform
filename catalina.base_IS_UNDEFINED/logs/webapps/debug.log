@@ -1,0 +1,14 @@
+2021-02-14 00:30:32.262 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :/upload/item/shop/2/2021021400303299498.jpg
+2021-02-14 00:30:32.265 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/2/2021021400303299498.jpg
+2021-02-14 00:35:39.949 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/3/2021021400353961649.jpg
+2021-02-14 00:35:39.951 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/3/2021021400353961649.jpg
+2021-02-14 00:39:02.513 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/4/2021021400390241108.jpg
+2021-02-14 00:39:02.514 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/4/2021021400390241108.jpg
+2021-02-14 16:26:19.016 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/5/2021021416261912125.jpg
+2021-02-14 16:26:19.018 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/5/2021021416261912125.jpg
+2021-02-14 21:50:20.808 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/6/2021021421502085693.jpg
+2021-02-14 21:50:20.810 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/6/2021021421502085693.jpg
+2021-02-14 21:51:49.300 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/7/2021021421514957505.jpg
+2021-02-14 21:51:49.301 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/7/2021021421514957505.jpg
+2021-02-14 21:57:55.586 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021421575527029.jpg
+2021-02-14 21:57:55.589 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021421575527029.jpg
