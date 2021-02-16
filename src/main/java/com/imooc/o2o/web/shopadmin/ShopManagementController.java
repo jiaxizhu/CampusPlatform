@@ -56,7 +56,7 @@ public class ShopManagementController {
 	            if(currentShopObj==null){
 	                //重定向 没登录就直接到/shoplist店铺列表中
 	                modelMap.put("redirect",true);
-	                modelMap.put("url","/o2o/shop/shoplist");
+	                modelMap.put("url","/o2o/shopadmin/shoplist");
 	            }else {
 	                Shop currentShop= (Shop)currentShopObj;
 	                modelMap.put("redirect",false);
