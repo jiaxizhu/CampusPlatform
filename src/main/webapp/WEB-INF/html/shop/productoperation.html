@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Shop info</title>
+    <title>Product Edit</title>
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" href="/favicon.ico">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -12,12 +12,12 @@
           href="//g.alicdn.com/msui/sm/0.6.2/css/sm.min.css">
     <link rel="stylesheet"
           href="//g.alicdn.com/msui/sm/0.6.2/css/sm-extend.min.css">
-          
-          
+          <link rel="stylesheet"
+	href="../resources/css/shop/productmanagement.css">
 </head>
 <body>
 <header class="bar bar-nav">
-    <h1 class="title">Shop info</h1>
+    <h1 class="title">Product Edit</h1>
 </header>
 <div class="content">
     <div class="list-block">
@@ -28,10 +28,9 @@
                         <i class="icon icon-form-name"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Shop name</div>
+                        <div class="item-title label">Product name</div>
                         <div class="item-input">
-                            <input type="text" id="shop-name"
-                                   placeholder="Shop name">
+                            <input type="text" id="product-name" placeholder="product name">
                         </div>
                     </div>
                 </div>
@@ -42,9 +41,9 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Shop category</div>
+                        <div class="item-title label">category</div>
                         <div class="item-input">
-                            <select id="shop-category">
+                            <select id="category">
                             </select>
                         </div>
                     </div>
@@ -56,10 +55,9 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Area</div>
+                        <div class="item-title label">priority</div>
                         <div class="item-input">
-                            <select id="area">
-                            </select>
+                            <input type="number" id="priority" placeholder="Larger number first">
                         </div>
                     </div>
                 </div>
@@ -70,10 +68,9 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Address</div>
+                        <div class="item-title label">Normal price</div>
                         <div class="item-input">
-                            <input type="text" id="shop-addr"
-                                   placeholder="address">
+                            <input type="number" id="normal-price" placeholder="choose">
                         </div>
                     </div>
                 </div>
@@ -84,10 +81,9 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Phone</div>
+                        <div class="item-title label">promotion price</div>
                         <div class="item-input">
-                            <input type="tel" id="shop-phone"
-                                   placeholder="phone">
+                            <input type="number" id="promotion-price" placeholder="choose">
                         </div>
                     </div>
                 </div>
@@ -98,9 +94,24 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Img</div>
+                        <div class="item-title label">small img</div>
                         <div class="item-input">
-                            <input type="file" id="shop-img" placeholder="phone">
+                            <input type="file" id="small-img">
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="item-content">
+                    <div class="item-media">
+                        <i class="icon icon-form-email"></i>
+                    </div>
+                    <div class="item-inner detail-img-div">
+                        <div class="item-title label">detail img</div>
+                        <div class="item-input" id="detail-img">
+                            <input type="file" class="detail-img">
+                            <!-- <input type="file" class="detail-img" id="detail-img-1">
+                            <input type="file" class="detail-img" id="detail-img-2"> -->
                         </div>
                     </div>
                 </div>
@@ -111,21 +122,20 @@
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <div class="item-title label">Shop description</div>
+                        <div class="item-title label">product desc</div>
                         <div class="item-input">
-                            <textarea placeholder="Shop desc"
-                                      id="shop-desc"></textarea>
+                            <textarea id="product-desc" placeholder="product desc"></textarea>
                         </div>
                     </div>
                 </div>
             </li>
-                        <li>
+            <li>
                 <div class="item-content">
                     <div class="item-media">
                         <i class="icon icon-form-email"></i>
                     </div>
                     <div class="item-inner">
-                        <label for="j_captcha" class="item-title label">Verification code</label> <input
+                        <label for="j_captcha" class="item-title label">verification</label> <input
                             id="j_captcha" name="j_captcha" type="text"
                             class="form-control in" placeholder="verification" />
                         <div class="item-input">
@@ -135,34 +145,33 @@
                     </div>
                 </div>
             </li>
+ 
         </ul>
     </div>
     <div class="content-block">
         <div class="row">
             <div class="col-50">
-                <a href="/o2o/shopadmin/shopmanagement"
-                   class="button button-big button-fill button-danger">Return</a>
+                <a href="/o2o/shopadmin/productmanagement"
+                   class="button button-big button-fill button-danger" id="back">Return shop management</a>
             </div>
             <div class="col-50">
-                <a href="#" class="button button-big button-fill"
-                   id="submit">Submit</a>
+                <a href="#" class="button button-big button-fill" id="submit">Submit</a>
             </div>
         </div>
     </div>
 </div>
  
  
+ 
 <script type='text/javascript'
-        src='//g.alicdn.com/sj/lib/zepto/zepto.js' charset='utf-8'></script>
+        src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
 <script type='text/javascript'
-        src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js'
-        charset='utf-8'></script>
+        src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
 <script type='text/javascript'
-        src='//g.alicdn.com/msui/sm/0.6.2/js/sm-extend.min.js'
-        charset='utf-8'></script>
+        src='//g.alicdn.com/msui/sm/0.6.2/js/sm-extend.min.js' charset='utf-8'></script>
 <script type='text/javascript'
         src='../resources/js/common/commonutil.js' charset='utf-8'></script>
 <script type='text/javascript'
-		src='../resources/js/shop/shopoperation.js' charset='utf-8'></script>
+        src='../resources/js/shop/productoperation.js' charset='utf-8'></script>
 </body>
 </html>
