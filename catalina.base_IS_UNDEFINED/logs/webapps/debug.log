@@ -1,14 +1,52 @@
-2021-02-14 00:30:32.262 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :/upload/item/shop/2/2021021400303299498.jpg
-2021-02-14 00:30:32.265 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/2/2021021400303299498.jpg
-2021-02-14 00:35:39.949 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/3/2021021400353961649.jpg
-2021-02-14 00:35:39.951 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/3/2021021400353961649.jpg
-2021-02-14 00:39:02.513 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/4/2021021400390241108.jpg
-2021-02-14 00:39:02.514 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/4/2021021400390241108.jpg
-2021-02-14 16:26:19.016 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/5/2021021416261912125.jpg
-2021-02-14 16:26:19.018 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/5/2021021416261912125.jpg
-2021-02-14 21:50:20.808 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/6/2021021421502085693.jpg
-2021-02-14 21:50:20.810 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/6/2021021421502085693.jpg
-2021-02-14 21:51:49.300 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/7/2021021421514957505.jpg
-2021-02-14 21:51:49.301 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/7/2021021421514957505.jpg
-2021-02-14 21:57:55.586 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021421575527029.jpg
-2021-02-14 21:57:55.589 [main] DEBUG com.imooc.o2o.util.ImageUtil - current completeAddr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021421575527029.jpg
+2021-02-16 18:02:12.015 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021618021289895.jpg
+2021-02-16 18:02:12.020 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021618021289895.jpg
+2021-02-16 18:02:12.020 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 18:02:12.568 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021618021229431.jpg
+2021-02-16 18:02:12.568 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021618021229431.jpg
+2021-02-16 18:02:12.606 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021618021299598.jpg
+2021-02-16 18:02:12.606 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021618021299598.jpg
+2021-02-16 21:44:03.577 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621440383449.jpg
+2021-02-16 21:44:03.579 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621440383449.jpg
+2021-02-16 21:44:03.579 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:44:04.435 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621440424398.jpg
+2021-02-16 21:44:04.435 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621440424398.jpg
+2021-02-16 21:44:04.483 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621440492701.jpg
+2021-02-16 21:44:04.483 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621440492701.jpg
+2021-02-16 21:54:18.008 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621541851936.jpg
+2021-02-16 21:54:18.011 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621541851936.jpg
+2021-02-16 21:54:18.011 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:55:26.161 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621552693046.jpg
+2021-02-16 21:55:26.163 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621552693046.jpg
+2021-02-16 21:55:26.163 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:55:26.625 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621552694676.jpg
+2021-02-16 21:55:26.625 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621552694676.jpg
+2021-02-16 21:55:26.665 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621552682495.jpg
+2021-02-16 21:55:26.666 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621552682495.jpg
+2021-02-16 21:56:27.400 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621562753880.jpg
+2021-02-16 21:56:27.402 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621562753880.jpg
+2021-02-16 21:56:27.402 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:56:28.095 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621562882634.jpg
+2021-02-16 21:56:28.095 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621562882634.jpg
+2021-02-16 21:56:28.133 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621562825729.jpg
+2021-02-16 21:56:28.134 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621562825729.jpg
+2021-02-16 21:58:10.395 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621581042600.jpg
+2021-02-16 21:58:10.397 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621581042600.jpg
+2021-02-16 21:58:10.397 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:58:10.869 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621581084077.jpg
+2021-02-16 21:58:10.869 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621581084077.jpg
+2021-02-16 21:58:10.908 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621581046727.jpg
+2021-02-16 21:58:10.908 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621581046727.jpg
+2021-02-16 21:58:58.679 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621585850643.jpg
+2021-02-16 21:58:58.681 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621585850643.jpg
+2021-02-16 21:58:58.681 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:58:59.379 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621585949465.jpg
+2021-02-16 21:58:59.379 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621585949465.jpg
+2021-02-16 21:58:59.415 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621585992534.jpg
+2021-02-16 21:58:59.416 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621585992534.jpg
+2021-02-16 21:59:18.732 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621591868548.jpg
+2021-02-16 21:59:18.734 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621591868548.jpg
+2021-02-16 21:59:18.734 [main] DEBUG com.imooc.o2o.util.ImageUtil - basePath is :/Users/jiaxizhu/Documents/SchoolPlatform/o2o/target/test-classes/
+2021-02-16 21:59:19.112 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621591926327.jpg
+2021-02-16 21:59:19.112 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621591926327.jpg
+2021-02-16 21:59:19.564 [main] DEBUG com.imooc.o2o.util.ImageUtil - current relativeAddr is :upload/item/shop/1/2021021621591916781.jpg
+2021-02-16 21:59:19.565 [main] DEBUG com.imooc.o2o.util.ImageUtil - current complete addr is :/Users/jiaxizhu/Documents/image/upload/item/shop/1/2021021621591916781.jpg
